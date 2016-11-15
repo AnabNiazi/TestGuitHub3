@@ -1,0 +1,98 @@
+//Exercise 1:
+
+	public class helloWorld
+	{
+	public static void main(String[] args)
+	{
+	int a=15;
+	if(a==15)
+	{
+	System.out.println("dsds");
+	}
+
+	}
+	}
+
+// Error
+//In first exercise error was not there
+
+
+//Exercise 2:
+	
+	public class HelloWorld
+	{
+	public static void main(String[] args)
+	{
+	System.out.print(100/0);
+	}
+	}
+// Error
+//In 2nd exercise there was logical error
+// it should not be divided by 0
+
+
+//Exercise 3:
+
+	public class HelloWorld
+	{
+	public static void main(String[] args)
+	{
+	Sytem.out.println(100/100);
+	}
+	}
+
+// Error
+// in 3rd exercise there is Syantax error
+// there Should be System instead of Sytem
+
+
+//Exercise 4:
+
+
+	public class HelloWorld
+	{
+	public static void main(String[] args)
+	{
+	int a,b=15;
+	System.out.print(a+" "+b);
+	}
+	}
+
+// Error
+// in 4th Exercise there was syntax error
+// there should be a and b declared separately
+
+
+// Exercise 5
+ 
+	public class HelloWorld
+	{
+	public void main(String[] args)
+	{
+	int a=15;
+	int b=16;
+	c=a+b;
+	Sysem.out.print(c);
+	}
+	}
+
+// Error
+// in the 5th exercise there was error in declaration
+// c was not declared
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
